@@ -125,7 +125,7 @@ Suggestions and improvements are always welcome.
 
 For any queries, suggestions, or discussions related to this repository:
 
-- GitHub: https://github.com/Tarun-Chowdary
+- Raise Issue on GitHub: https://github.com/Tarun-Chowdary/Design-and-Analysis-of-Algorithms-DAA-/issues
 - Email: yegi.2992@gmail.com
 
 Feel free to connect and explore more projects.
