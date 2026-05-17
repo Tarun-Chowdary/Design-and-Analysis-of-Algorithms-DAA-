@@ -1,0 +1,2 @@
+n time_mom time_qs comp_mom comp_qs
+120000 0.018000 0.006000 1265884 350888
