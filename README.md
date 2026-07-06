@@ -69,7 +69,7 @@ Each assignment folder generally contains:
 # 📥 Clone This Repository
 
 ```bash
-git clone https://github.com/Tarun-Chowdary/Design-and-Analysis-of-Algorithms-DAA-.git
+git clone https://github.com/Tarun-Chowdary/Design_and_Analysis_of_Algorithms-DAA.git
 cd Design-and-Analysis-of-Algorithms-DAA-
 ```
 
@@ -125,7 +125,7 @@ Suggestions and improvements are always welcome.
 
 For any queries, suggestions, or discussions related to this repository:
 
-- Raise Issue on GitHub: https://github.com/Tarun-Chowdary/Design-and-Analysis-of-Algorithms-DAA-/issues
+- Raise Issue on GitHub: https://github.com/Tarun-Chowdary/Design_and_Analysis_of_Algorithms-DAA/issues
 - Email: yegi.2992@gmail.com
 
 Feel free to connect and explore more projects.
